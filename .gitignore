@@ -1,0 +1,6 @@
+*.mp4
+*.zip
+*.exe
+__pycache__/
+*.pyc
+.env

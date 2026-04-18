@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Crankshaft",
+        "description": "Converts the linear motion of the pistons into rotational motion.",
+        "usage": "Located inside the engine; essential for converting piston movement to drive power.",
+        "category": "Engine"
+    },
+    {
+        "name": "Cylinder Head",
+        "description": "Houses the valves and other components related to the combustion process.",
+        "usage": "Mounted on top of the cylinder block; key for combustion control.",
+        "category": "Engine"
+    },
+    {
+        "name": "Piston & Rings",
+        "description": "Convert fuel into mechanical energy as part of the combustion process.",
+        "usage": "Operate within the cylinder; allow compression and transfer energy to the crankshaft.",
+        "category": "Engine"
+    },
+    {
+        "name": "Connecting Rod",
+        "description": "Connects the piston to the crankshaft.",
+        "usage": "Transmits motion and force from the piston to the crankshaft.",
+        "category": "Engine"
+    },
+    {
+        "name": "Valves",
+        "description": "Control the flow of air and fuel into the cylinder and exhaust gases out.",
+        "usage": "Mounted in the cylinder head; opens/closes for air-fuel and exhaust management.",
+        "category": "Engine"
+    },
+    {
+        "name": "Battery",
+        "description": "Stores electrical energy to start the engine and power other components.",
+        "usage": "Provides initial energy for engine startup and supports electrical load.",
+        "category": "Electrical"
+    },
+    {
+        "name": "Alternator",
+        "description": "Generates electricity to charge the battery and power the system.",
+        "usage": "Mounted on the engine; driven by belt or gear.",
+        "category": "Electrical"
+    },
+    {
+        "name": "Starter Motor",
+        "description": "Provides the initial rotational force to start the engine.",
+        "usage": "Engages with the engine's flywheel to initiate engine rotation.",
+        "category": "Electrical"
+    },
+    {
+        "name": "Wiring Harness",
+        "description": "Connects all the electrical components together.",
+        "usage": "Runs through the vehicle connecting power and signals.",
+        "category": "Electrical"
+    },
+    {
+        "name": "Ignition System",
+        "description": "Ignites the fuel-air mixture via spark plug and coil.",
+        "usage": "Starts combustion in the engine cylinders.",
+        "category": "Electrical"
+    },
+    {
+        "name": "Fairings",
+        "description": "Plastic/fiberglass panels covering and protecting the engine.",
+        "usage": "Provide aerodynamic shape and protect internal parts.",
+        "category": "Body"
+    },
+    {
+        "name": "Fenders",
+        "description": "Protect the rider from debris and water spray.",
+        "usage": "Mounted over the wheels; guard against splashes.",
+        "category": "Body"
+    },
+    {
+        "name": "Mirrors",
+        "description": "Provide the rider with rear and side visibility.",
+        "usage": "Mounted on handlebars or fairings.",
+        "category": "Body"
+    },
+    {
+        "name": "Chassis/Frame",
+        "description": "The structural backbone of the vehicle.",
+        "usage": "Supports all mechanical parts including engine and suspension.",
+        "category": "Body"
+    },
+    {
+        "name": "Seat",
+        "description": "Provides a comfortable area for the rider.",
+        "usage": "Mounted on frame, usually above the rear wheel.",
+        "category": "Body"
+    },
+    {
+        "name": "Lights",
+        "description": "Headlight, taillight, brake light, and turn signals.",
+        "usage": "Essential for visibility and safety.",
+        "category": "Body"
+    },
+    {
+        "name": "Clutch",
+        "description": "Disengages and engages the engine power to the transmission.",
+        "usage": "Operated via lever to change gears smoothly.",
+        "category": "Transmission"
+    },
+    {
+        "name": "Gears",
+        "description": "Change the gear ratio to optimize power and speed.",
+        "usage": "Mounted inside gearbox; engaged sequentially.",
+        "category": "Transmission"
+    },
+    {
+        "name": "Chain/Belt",
+        "description": "Transmits power from the engine to the rear wheel.",
+        "usage": "Looped around sprockets or pulleys.",
+        "category": "Transmission"
+    },
+    {
+        "name": "Shocks/Struts",
+        "description": "Absorb road shocks and vibrations.",
+        "usage": "Mounted near wheels for ride comfort.",
+        "category": "Suspension"
+    },
+    {
+        "name": "Springs",
+        "description": "Support vehicle weight and help dampen impacts.",
+        "usage": "Work with shocks in suspension system.",
+        "category": "Suspension"
+    },
+    {
+        "name": "Swingarm",
+        "description": "Connects the rear wheel to the frame.",
+        "usage": "Holds the rear wheel and pivots for suspension travel.",
+        "category": "Suspension"
+    },
+    {
+        "name": "Brake Pads",
+        "description": "Friction material that slows the vehicle down.",
+        "usage": "Pressed against brake rotors in disc brakes.",
+        "category": "Braking"
+    },
+    {
+        "name": "Brake Calipers",
+        "description": "Hold brake pads and apply pressure.",
+        "usage": "Hydraulically actuated; clamps brake rotors.",
+        "category": "Braking"
+    },
+    {
+        "name": "Brake Rotors",
+        "description": "The disc that brake pads clamp onto.",
+        "usage": "Mounted on wheels; dissipates kinetic energy as heat.",
+        "category": "Braking"
+    },
+    {
+        "name": "Brake Levers/Pedals",
+        "description": "Control the braking system.",
+        "usage": "Actuate master cylinder to apply brakes.",
+        "category": "Braking"
+    },
+    {
+        "name": "Wheels",
+        "description": "Support tires and allow motion.",
+        "usage": "Connect tires to axles; enable rotation.",
+        "category": "Wheels"
+    },
+    {
+        "name": "Tires",
+        "description": "Provide road contact and grip.",
+        "usage": "Mounted on wheels; ensure traction and handling.",
+        "category": "Wheels"
+    }
+]
