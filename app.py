@@ -211,6 +211,9 @@ four_wheeler_parts = {
 # -----------------------
 # API ROUTE
 # -----------------------
+@app.route("/")
+def home():
+    return "Backend is running 🚀"
 @app.route("/get_info", methods=["POST"])
 def get_info():
     data = request.get_json()
