@@ -190,7 +190,7 @@ if part and st.button("Get Info"):
     with st.spinner("Fetching part details..."):
         try:
             res = requests.post(
-                ""https://spareparts-advisor.onrender.com/get_info"",
+                "https://spareparts-advisor.onrender.com/get_info",
                 json={"part": part, "vehicle_type": vehicle_type}
             )
 
